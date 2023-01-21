@@ -10,7 +10,9 @@ hero:
 
 features:
   - title: Author
-    details: Written by Lao Tzu
-  - title: "An English Version"
-    details: "Translated By Ursula K. Le Guin (ISBN: 978-1-59030-744-1)"
+    details: Lao Tzu
+  - title: "Primary Translator"
+    details: "Ursula K. Le Guin"
+  - title: Adapter
+    details: Johnson Chen
 ---

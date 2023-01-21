@@ -1,14 +1,14 @@
 {
-  "name": "tao-te-ching",
-  "version": "1.0.0",
-  "license": "ISC",
-  "description": "Some English interpretations of Lao Tzu's Tao Te Ching.",
-  "scripts": {
-    "dev": "vitepress dev src",
-    "build": "vitepress build src",
-    "serve": "vitepress serve src"
-  },
-  "devDependencies": {
-    "vitepress": "^1.0.0-alpha.1"
-  }
+	"name": "tao-te-ching",
+	"version": "1.0.0",
+	"license": "ISC",
+	"description": "My English version of Tao Te Ching",
+	"scripts": {
+		"dev": "vitepress dev src",
+		"build": "vitepress build src",
+		"serve": "vitepress serve src"
+	},
+	"devDependencies": {
+		"vitepress": "1.0.0-alpha.1"
+	}
 }
