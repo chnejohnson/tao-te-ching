@@ -2,18 +2,15 @@
 
 
 
-The Way bears one.  
+The way bears one.  
 The one bears two.  
 The two bear three.  
-The three bear the ten thousand things.  
-The ten thousand things  
-carry the yin on their shoulders  
-and hold in their arms the yang,  
-whose interplay of energy  
-makes harmony.  
+The three bear all things.  
 
-People despise  
-orphans, widowers, outcasts.  
+All things carry the yin and hold the yang,  
+and attribute harmony to the interplay of the force.  
+
+People despise orphans, widowers, outcasts.  
 Yet that’s what kings and rulers call themselves.  
 Whatever you lose, you’ve won.  
 Whatever you win, you’ve lost.  

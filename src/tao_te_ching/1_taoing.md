@@ -1,21 +1,16 @@
 # 1 - TAOING
 
+The way can be spoken of,  
+is not the constant way.   
 
+The name can be named,  
+is not the constant name.   
 
-The way you can go  
-isn’t the real way.  
-The name you can say  
-isn’t the real name.  
+Sky and earth begin in the unnamed:  
+name’s the mother of the ten thousand things.  
 
-Heaven and earth  
-begin in the unnamed:  
-name’s the mother  
-of the ten thousand things.  
-
-So the unwanted soul  
-sees what’s hidden,  
-and the ever-wanting soul  
-sees only what it wants.  
+So the unwanted soul sees what’s hidden,  
+and the ever-wanting soul sees only what it wants.  
 
 Two things, one origin,  
 but different in name,  
