@@ -1,9 +1,9 @@
 # 1 - TAOING
 
-The way can be spoken of,  
-is not the constant way.   
+The Way can be spoken of   
+is not the constant Way.   
 
-The name can be named,  
+The name can be named  
 is not the constant name.   
 
 Sky and earth begin in the unnamed:  

@@ -13,7 +13,7 @@ Wise souls don’t hoard;
 the more they do for others the more they have,   
 the more they give the richer they are.   
 
-The way of sky benefits instead of destroying.     
-The way of a master acts instead of competing.  
+The Way of sky benefits instead of destroying.     
+The Way of a master acts instead of competing.  
 
 

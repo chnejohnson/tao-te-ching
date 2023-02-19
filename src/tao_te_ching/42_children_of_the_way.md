@@ -1,8 +1,8 @@
-# 42 - CHILDREN OF THE WAY
+# 42 - CHILDREN OF THE Way
 
 
 
-The way bears one.  
+The Way bears one.  
 The one bears two.  
 The two bear three.  
 The three bear all things.  
